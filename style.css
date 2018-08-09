@@ -31,3 +31,43 @@ header {
     width: 20%;
     float: right;
 }
+
+main {
+    background: lightgrey;
+    padding: 100px 200px;
+}
+
+.content {
+    background: black;
+    padding: 50px;
+    height: 350px;
+}
+
+.line1 {
+    background: white;
+    height: 36px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.line2 {
+    background: white;
+    height: 36px;
+    width: 70%;
+    margin: 20px auto 0;
+}
+
+.line3 {
+    margin-top: 20px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+}
+
+.pill{
+    border-radius: 20px;
+    display: inline-block;
+    background: white;
+    height: 30px;
+    width: 40%;
+}
