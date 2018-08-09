@@ -1,0 +1,33 @@
+
+
+html {
+    font-family: 'Coda', cursive;
+}
+
+
+h1 {
+    color:red;
+}
+
+header {
+    height: 100px;
+    background: black;
+    padding: 14px 40px;
+}
+
+.logo, .search {
+    height: 72px;
+    background: white;
+
+}
+
+.logo {
+    width: 15%;
+    float: left;
+
+}
+
+.search {
+    width: 20%;
+    float: right;
+}
